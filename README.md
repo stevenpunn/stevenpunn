@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven Pun
 - 👀 I’m interested in cybersecurity and blockchain technology as well as computational data science
-spunportfolio.netlify.app
+- spunportfolio.netlify.app
 
 
 <!---
