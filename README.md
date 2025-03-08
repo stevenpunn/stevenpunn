@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1> Hi, I'm Steven</h1>
-<p>I am currently a third year Computer Science student. <br>I'm currently interested in machine learning, artificial intelligence, and Cybersecurity.</p>
+<p>I am currently a Computer Science student pursuing my Bachelor's Degree. <br>I'm currently interested in machine learning, artificial intelligence, and Cybersecurity.</p>
 
 
 # 💻 Tech Stack:
