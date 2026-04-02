@@ -11,6 +11,4 @@
   <img align="center" src="https://streak-stats.demolab.com?user=stevenpunn&mode=weekly&theme=dark&hide_border=true" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenpunn&show_icons=true&locale=en" alt="stevenpunn" /></p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
