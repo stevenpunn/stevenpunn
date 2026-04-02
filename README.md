@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=stevenpunn&exclude_days=Sat,Sun" />
+  <img align="center" src="https://streak-stats.demolab.com?user=stevenpunn&mode=weekly&theme=dark&hide_border=true" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenpunn&show_icons=true&locale=en" alt="stevenpunn" /></p>
